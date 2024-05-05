@@ -54,6 +54,3 @@ Contributions are welcome! If you find any issues or want to add new features, f
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-## Contact
-
-If you have any questions or feedback, feel free to contact me at kswastic@gmail.com.
